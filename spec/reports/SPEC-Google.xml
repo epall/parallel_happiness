@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time="9.703269" failures="0" tests="1" errors="0" name="Google" skipped="0">
+  <testcase time="9.702756" name="Has a home page">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

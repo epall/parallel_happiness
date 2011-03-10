@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" tests="1" skipped="0" name="Manage home2s" time="2.60021" failures="0">
+  <testcase name="Register new home2" time="2.198741">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>
