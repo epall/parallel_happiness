@@ -1,0 +1,10 @@
+source "http://rubygems.org/"
+
+gem "rails", "2.3.11"
+gem "ci_reporter"
+gem "test-unit", "1.2.3"
+gem "rake"
+gem "rspec-rails", "~> 1.3.3"
+gem "selenium-webdriver"
+gem "database_cleaner"
+gem "parallel_tests"
